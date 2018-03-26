@@ -10,6 +10,7 @@ name = "pypi"
 flask = "*"
 sqlalchemy = "*"
 gunicorn = "*"
+pip = "*"
 
 
 [dev-packages]
